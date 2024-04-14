@@ -2,7 +2,8 @@
 
 in-class code-along where we learned to make a simple pop-up window.
 
-key elements:
+### key elements
+
 - javax.swing.JFrame & javax.swing.WindowConstants
 - title of window, size, visibility, and default close operation
 
